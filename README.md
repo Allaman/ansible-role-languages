@@ -1,12 +1,12 @@
 ansible-role-languages
 =========
 
-Installs certain programming languages on Arch Linux based systems via pacman.
+Installs certain programming languages on Arch Linux or Ubuntu based systems via package management.
 
 Requirements
 ------------
 
-- Arch Linux (pacman)
+- Arch Linux or Ubunutu
 - Sudo permissions
 
 Role Variables
